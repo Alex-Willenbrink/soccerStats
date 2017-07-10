@@ -1,0 +1,21 @@
+{
+  "name": "soccer_heights",
+  "version": "1.0.0",
+  "description": "A web application that allows you to visualize the heights of players in the european football league",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fifa",
+    "height",
+    "soccer",
+    "football"
+  ],
+  "author": "Alex Willenbrink",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
